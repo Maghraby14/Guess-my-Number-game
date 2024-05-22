@@ -42,13 +42,13 @@ Once the computer correctly guesses your number, you will be taken to the game o
 ## Screenshots
 
 ### Enter Number Screen
-<img src="assets/imgs/1.png" alt="Enter Number Screen" width="300px">
+<img src="assets/imgs/1.jpeg" alt="Enter Number Screen" width="300px">
 
 ### Game Screen
-<img src="assets/imgs/3.png" alt="Game Screen" width="300px">
+<img src="assets/imgs/3.jpeg" alt="Game Screen" width="300px">
 
 ### Game Over Screen
-<img src="assets/imgs/2.png" alt="Game Over Screen" width="300px">
+<img src="assets/imgs/2.jpeg" alt="Game Over Screen" width="300px">
 
 
 ## How to Play
