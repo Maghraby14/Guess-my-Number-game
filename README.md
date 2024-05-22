@@ -39,6 +39,18 @@ Once the computer correctly guesses your number, you will be taken to the game o
 - The actual number you entered.
 - The total number of rounds (guesses) it took for the computer to guess your number.
 
+## Screenshots
+
+### Enter Number Screen
+<img src="assets/imgs/1.png" alt="Enter Number Screen" width="300px">
+
+### Game Screen
+<img src="assets/imgs/3.png" alt="Game Screen" width="300px">
+
+### Game Over Screen
+<img src="assets/imgs/2.png" alt="Game Over Screen" width="300px">
+
+
 ## How to Play
 
 1. **Start the Game:**
